@@ -1,18 +1,15 @@
-### Hello, my name is Maddy Boussa!
+# Hello, my name is Maddy Boussa!
 
-## blkayh
+## About Me
 
-<!--
-**maddyboussa/maddyboussa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a current undergraduate student at Rochester Institue of Technology pursuing a Bachelor's of Science in Game Design & Development.
 
-Here are some ideas to get you started:
+## Also Find Me At..
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [LinkedIn](https://www.linkedin.com/in/madeline-boussa-3a011321b/)
+-resume
+-[Portfolio](https://people.rit.edu/mnb7937/portfolio/)
+
+## Projects
+
+Here you can find some of my projects and game jam prototypes. Below are also repositories containing notes and projects relating to my current academic course work.
