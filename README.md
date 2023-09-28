@@ -7,8 +7,8 @@ I am a current undergraduate student at Rochester Institue of Technology pursuin
 ## Also Find Me At..
 
 - [LinkedIn](https://www.linkedin.com/in/madeline-boussa-3a011321b/)
--resume
--[Portfolio](https://people.rit.edu/mnb7937/portfolio/)
+- [Resume](/MadelineBoussaResum.pdf)
+- [Portfolio](https://people.rit.edu/mnb7937/portfolio/)
 
 ## Projects
 
