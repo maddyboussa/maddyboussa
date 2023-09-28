@@ -4,7 +4,7 @@
 
 I am a current undergraduate student at Rochester Institue of Technology pursuing a Bachelor's of Science in Game Design & Development. With a passion for all things games-related, I have a knack for programming, designing, and analyzing works of interactive media!
 
-## Also Find Me At..
+## Also Find Me At...
 
 - [LinkedIn](https://www.linkedin.com/in/madeline-boussa-3a011321b/)
 - [Resume](Madeline_Boussa_Resume.pdf)
